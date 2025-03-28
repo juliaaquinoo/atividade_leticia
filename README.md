@@ -1,1 +1,5 @@
-# atividade_leticia
+nome = input("Informe o nome do personagem:")
+nome2 = input("Informe o nome do outro personagem:")
+cenario = input("Onde acontece a história?")
+acao = input("O que eles estavam fazendo?")
+print(f"{nome} e {nome2} estavam no(a) {cenario} e {acao}.")
